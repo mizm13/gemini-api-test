@@ -65,7 +65,7 @@ const {
       ],
     });
   
-    const result = await chatSession.sendMessage("What do you miss about earth?");
+    const result = await chatSession.sendMessage("INSERT_INPUT_HERE");
     console.log(result.response.text());
   }
   
